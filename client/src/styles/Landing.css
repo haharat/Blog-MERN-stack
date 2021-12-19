@@ -1,0 +1,40 @@
+.main {
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-image: url("https://images.pexels.com/photos/965117/pexels-photo-965117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: center;
+    background-size: cover;
+  }
+
+  .intro-text{
+    text-align: center;
+  }
+  .btn btn-sm btn-success my-2 {
+    text-align: center;
+  }
+
+  .buttonContainer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .landingbutton {
+    width: 200px;
+    height: 55px;
+  }
+
+  .landingbutton:link {
+    text-decoration: none !important;
+  }
+
+  .listBanner{
+    height: 200px; 
+    width: 100%;
+    background-image: url("https://images.pexels.com/photos/998589/pexels-photo-998589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+  }
+  
+  .showPost{
+    background-image: url("https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+  }
